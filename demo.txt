@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 this is the sample file to send to github
+=======
+This is the sample code file for demo
+>>>>>>> 574624159fdb3fcad63ec8c846ff7e4963db21a3
